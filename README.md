@@ -4,4 +4,4 @@
 
 <!-- this repo has the images -->
 
-<img src="https://imgur.com/a/m6R2uXN" width="100" height="100" border="1"/>
+<img src="https://github.com/Baked-Designs/Baked-Designs.github.io/blob/main/cat.png" border="1"/>
